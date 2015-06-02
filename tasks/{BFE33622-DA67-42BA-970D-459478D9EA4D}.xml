@@ -1,0 +1,8 @@
+﻿<?xml version="1.0"?>
+<configuration date="2015/06/02" author="e.World Technology Ltd.">
+<project id="{BFE33622-DA67-42BA-970D-459478D9EA4D}" file="C:\Users\Andrija Barbarosa\Documents\PHPMaker\Projects\tasks.pmp" name="tasks" product="PHPMaker" version="11.0" datetime="2015/06/02 10:21:47" languagefolder="phplang" userlevel="">
+<table id="milestones" name="milestones" caption="milestones" userlevel="" priv="1"/>
+<table id="projects" name="projects" caption="projects" userlevel="" priv="1"/>
+<table id="tasks" name="tasks" caption="tasks" userlevel="" priv="1"/>
+<table id="users" name="users" caption="users" userlevel="" priv="1"/>
+</project></configuration>
